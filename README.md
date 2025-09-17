@@ -11,7 +11,7 @@
  - [ ] 💻 Learn Python at a basic level
  - [ ] ✨ Create the first full-fledged project
  - [ ] 💡 Take a part in the Open Source project
- - [ ] 🤝🏻 Get Victar's approval
+ - [ ] 🤝🏻 Get [Victor's](https://github.com/groundbreakingmc) approval
 
 ## 🌟**Interesting facts**
 - 🎧 **Favorite band**: Stray Kids
