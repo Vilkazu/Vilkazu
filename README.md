@@ -8,8 +8,8 @@
  - 🌍 **Languages**: Ukrainian (native), Russian, English
 
 ## 🛠️ **Tech Stack (Learning)**
-- ♠ **Languages**: Python (beginner)
-- ♣ **Tools**: Git, VS Code
+- 🦆 **Languages**: Python (beginner)
+- 🔑 **Tools**: Git, VS Code
 
 ## 🎯 **Current goals**
  - [ ] 💻 Learn Python at a basic level
@@ -25,3 +25,9 @@
 ## 🧸 **Contact me**
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1213138412496752642)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/VilkaVi3)
+
+<div align="center">
+
+I can solve the integral, but I'd rather solve your loneliness 🎀🧸
+
+</div>
