@@ -8,8 +8,8 @@
  - 🌍 **Languages**: Ukrainian (native), Russian, English
 
 ## 🛠️ **Tech Stack (Learning)**
-- **Languages**: Python (beginner)
-- **Tools**: Git, VS Code
+- ♠ **Languages**: Python (beginner)
+- ♣ **Tools**: Git, VS Code
 
 ## 🎯 **Current goals**
  - [ ] 💻 Learn Python at a basic level
