@@ -2,7 +2,7 @@
 
 ## 👀 **About me**
  - 🎓 **Education**: I study at applied mathematics. (Not stupid)
- - 🎀 **Interests**: Programming, stading, teachers of 20+
+ - 🎀 **Interests**: Programming, studyng, teachers of 20+
  - 📓 **Now I'm studying**: How not to get expelled from university
  - 📌 **Purpose**: Study what i study
  - 🌍 **Languages**: Ukrainian (native), Russian, English
